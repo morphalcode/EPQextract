@@ -1,2 +1,2 @@
 # EPQextract
-EPQextract
+Extract from the development process of my EPQ project '_Use Computing Techniques to Calculate the Best Shot in a Pool Position_'. Algorithm randomly places a cue ball and finds the shortest path to pocket one of the balls (with predefined positions). In the algorithm's current configuration it is resource intensive, uncommenting the dual boundary return statement in _calculateBouncePoints()_ will reduce computational load.
